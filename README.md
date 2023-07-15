@@ -1,7 +1,7 @@
 [![MasterHead](https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg)]
 
 <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate aspiring Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on my institution projects [Clone American Tourister](https://srjgit86.github.io/cssMctProject/mctProject/index.html)
 
