@@ -1,4 +1,4 @@
-[![MasterHead](https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg)]
+![MasterHead](https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg)
 
 <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
 <h3 align="center">A passionate aspiring Full Stack Web Developer</h3>
