@@ -4,7 +4,7 @@
 <h3 align="center">A passionate aspiring Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on my institution projects [Crypto Currency Viewer](https://srjgit86.github.io/cryptoCurrencyView_JS/index.html),  [Travel Website UI](https://srjgit86.github.io/cssProjects/), [Netflix UI](https://srjgit86.github.io/cssProjects/selfProject/index.html)
-- 🌱 I’m currently learning Full stack Web Development From Geekster **Java DSA , Springboot , HTML , CSS ,Javascript , and ReactJS**
+- 🌱 I’m currently learning Full stack Web Development From Geekster **Java , DSA , HTML , CSS ,Javascript , and ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrJGit86](https://github.com/SrJGit86)
 
