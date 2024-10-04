@@ -4,11 +4,11 @@
 <h3 align="center">A passionate aspiring Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on my institution projects [Crypto Currency Viewer](https://srjgit86.github.io/cryptoCurrencyView_JS/index.html),  [Travel Website UI](https://srjgit86.github.io/cssProjects/), [Netflix UI](https://srjgit86.github.io/cssProjects/selfProject/index.html)
-- 🌱 I’m currently learning Full stack Web Development **Java , DSA , HTML , CSS ,Javascript and ReactJS**
+- 🌱 I’m currently focusing on enhancing my skills in Java Development and have gained expertise in **Java, HTML, CSS, JavaScript, SQL, JSP, and Servlets**. I'm passionate about backend development and working with databases, and I’m continuously building on my knowledge in Data Structures and Algorithms (DSA) to improve my problem-solving abilities. I'm eager to apply these skills in a Java Developer role, where I can contribute to building robust and scalable applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrJGit86](https://github.com/SrJGit86)
 
-- 💬 Ask me about **Java DSA , HTML , CSS , JavaScript and ReactJS**
+- 💬 Ask me about **Java DSA , HTML , CSS , JavaScript , SQL**
 
 - 📫 How to reach me **syadav220899@gmail.com**
 
