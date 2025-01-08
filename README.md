@@ -1,14 +1,13 @@
 ![MasterHead](https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg)
 
 <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
-<h3 align="center">A passionate aspiring Full Stack Web Developer</h3>
+<h3 align="center">A passionate Full Stack Java Developer</h3>
 
-- 🔭 I’m currently working on my institution projects [Crypto Currency Viewer](https://srjgit86.github.io/cryptoCurrencyView_JS/index.html),  [Travel Website UI](https://srjgit86.github.io/cssProjects/), [Netflix UI](https://srjgit86.github.io/cssProjects/selfProject/index.html)
-- 🌱 I’m currently focusing on enhancing my skills in Java Development and have gained expertise in **Java, HTML, CSS, JavaScript, SQL, JSP, and Servlets**. I'm passionate about backend development and working with databases, and I’m continuously building on my knowledge in Data Structures and Algorithms (DSA) to improve my problem-solving abilities. I'm eager to apply these skills in a Java Developer role, where I can contribute to building robust and scalable applications.
+- 🔭 I have been working in IT industry since last 2.3 years. I am expertise in java, j2ee, Springboot, micro service, hibernate JPA. currently working with Mencoweb Technologies as a full stack developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrJGit86](https://github.com/SrJGit86)
 
-- 💬 Ask me about **Java DSA , HTML , CSS , JavaScript , SQL**
+- 💬 Ask me about **Java ,Springboot ,Hibernate ,JPA ,JSP Servlet , HTML , CSS , JavaScript , SQL**
 
 - 📫 How to reach me **syadav220899@gmail.com**
 
