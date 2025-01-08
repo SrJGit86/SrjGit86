@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
 <h3 align="center">A passionate Full Stack Java Developer</h3>
 
-- 🔭 I have been working in IT industry since last 2.3 years. I am expertise in java, j2ee, Springboot, micro service, hibernate JPA. currently working with Mencoweb Technologies as a full stack developer.
+- 🔭 I have been working in IT industry since last 2.3 years. I am expertise in java, j2ee, Springboot, micro service, hibernate JPA. currently working with **Mencoweb Technologies** as a full stack developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrJGit86](https://github.com/SrJGit86)
 
