@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrJGit86](https://github.com/SrJGit86)
 
-- 💬 Ask me about **Java ,Springboot ,Hibernate ,JPA ,JSP Servlet , HTML , CSS , JavaScript , SQL**
+- 💬 Ask me about **Java ,Springboot,Microservices ,Hibernate ,JPA ,JSP Servlet , HTML , CSS , JavaScript , SQL**
 
 - 📫 How to reach me **syadav220899@gmail.com**
 
